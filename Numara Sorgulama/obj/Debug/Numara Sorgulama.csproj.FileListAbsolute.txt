@@ -1,0 +1,29 @@
+c:\users\_dangerousman\documents\visual studio 2012\Projects\Numara-Sorgulama-Source\Numara Sorgulama\bin\Debug\Numara Sorgulama.exe.config
+c:\users\_dangerousman\documents\visual studio 2012\Projects\Numara-Sorgulama-Source\Numara Sorgulama\bin\Debug\Numara Sorgulama.exe
+c:\users\_dangerousman\documents\visual studio 2012\Projects\Numara-Sorgulama-Source\Numara Sorgulama\bin\Debug\Numara Sorgulama.pdb
+c:\users\_dangerousman\documents\visual studio 2012\Projects\Numara-Sorgulama-Source\Numara Sorgulama\obj\Debug\Numara Sorgulama.csprojResolveAssemblyReference.cache
+c:\users\_dangerousman\documents\visual studio 2012\Projects\Numara-Sorgulama-Source\Numara Sorgulama\obj\Debug\Numara_Sorgulama.Form1.resources
+c:\users\_dangerousman\documents\visual studio 2012\Projects\Numara-Sorgulama-Source\Numara Sorgulama\obj\Debug\Numara_Sorgulama.Properties.Resources.resources
+c:\users\_dangerousman\documents\visual studio 2012\Projects\Numara-Sorgulama-Source\Numara Sorgulama\obj\Debug\Numara Sorgulama.csproj.GenerateResource.Cache
+c:\users\_dangerousman\documents\visual studio 2012\Projects\Numara-Sorgulama-Source\Numara Sorgulama\obj\Debug\Numara Sorgulama.exe
+c:\users\_dangerousman\documents\visual studio 2012\Projects\Numara-Sorgulama-Source\Numara Sorgulama\obj\Debug\Numara Sorgulama.pdb
+C:\Users\_DangerOusMaN\Documents\Visual Studio 2012\Projects\Numara-Sorgulama-Source\Numara Sorgulama\obj\Debug\Numara_Sorgulama.Form2.resources
+D:\Projelerim\Numara-Sorgulama-Source\Numara Sorgulama\bin\Debug\Numara Sorgulama.exe.config
+D:\Projelerim\Numara-Sorgulama-Source\Numara Sorgulama\obj\Debug\Numara Sorgulama.exe
+D:\Projelerim\Numara-Sorgulama-Source\Numara Sorgulama\obj\Debug\Numara Sorgulama.pdb
+X:\Projelerim\Numara-ve-Operator-Sorgulama-Source\Numara Sorgulama\bin\Debug\Numara Sorgulama.exe.config
+X:\Projelerim\Numara-ve-Operator-Sorgulama-Source\Numara Sorgulama\obj\Debug\Numara Sorgulama.exe
+X:\Projelerim\Numara-ve-Operator-Sorgulama-Source\Numara Sorgulama\obj\Debug\Numara Sorgulama.pdb
+D:\VB6 - C# Projelerim\Numara-ve-Operator-Sorgulama-Source\Numara Sorgulama\bin\Debug\Numara Sorgulama.exe.config
+D:\VB6 - C# Projelerim\Numara-ve-Operator-Sorgulama-Source\Numara Sorgulama\obj\Debug\Numara Sorgulama.exe
+D:\VB6 - C# Projelerim\Numara-ve-Operator-Sorgulama-Source\Numara Sorgulama\obj\Debug\Numara Sorgulama.pdb
+O:\Google omnyvz.sponsor@gmail.com\VB6 - C# Projelerim\Numara-ve-Operator-Sorgulama-Source\Numara Sorgulama\bin\Debug\Numara Sorgulama.exe.config
+O:\Google omnyvz.sponsor@gmail.com\VB6 - C# Projelerim\Numara-ve-Operator-Sorgulama-Source\Numara Sorgulama\bin\Debug\Numara Sorgulama.exe
+O:\Google omnyvz.sponsor@gmail.com\VB6 - C# Projelerim\Numara-ve-Operator-Sorgulama-Source\Numara Sorgulama\bin\Debug\Numara Sorgulama.pdb
+O:\Google omnyvz.sponsor@gmail.com\VB6 - C# Projelerim\Numara-ve-Operator-Sorgulama-Source\Numara Sorgulama\obj\Debug\Numara Sorgulama.csprojAssemblyReference.cache
+O:\Google omnyvz.sponsor@gmail.com\VB6 - C# Projelerim\Numara-ve-Operator-Sorgulama-Source\Numara Sorgulama\obj\Debug\Numara_Sorgulama.Form1.resources
+O:\Google omnyvz.sponsor@gmail.com\VB6 - C# Projelerim\Numara-ve-Operator-Sorgulama-Source\Numara Sorgulama\obj\Debug\Numara_Sorgulama.Form2.resources
+O:\Google omnyvz.sponsor@gmail.com\VB6 - C# Projelerim\Numara-ve-Operator-Sorgulama-Source\Numara Sorgulama\obj\Debug\Numara_Sorgulama.Properties.Resources.resources
+O:\Google omnyvz.sponsor@gmail.com\VB6 - C# Projelerim\Numara-ve-Operator-Sorgulama-Source\Numara Sorgulama\obj\Debug\Numara Sorgulama.csproj.GenerateResource.cache
+O:\Google omnyvz.sponsor@gmail.com\VB6 - C# Projelerim\Numara-ve-Operator-Sorgulama-Source\Numara Sorgulama\obj\Debug\Numara Sorgulama.exe
+O:\Google omnyvz.sponsor@gmail.com\VB6 - C# Projelerim\Numara-ve-Operator-Sorgulama-Source\Numara Sorgulama\obj\Debug\Numara Sorgulama.pdb
